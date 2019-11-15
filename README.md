@@ -2,8 +2,6 @@
 
 # Introduction
 
-These are the essential skills that every engineer attending the Pesto Bootcamp must be familiar with. We have built up this resource library by creating our own internal content and by curating our favorite blog posts, documentation sites and courses from around the web.
-
 Here, you have access to resources which will help you understand the general programming concepts as well as the specifics of various technologies in depth.
 
 # Getting Started
@@ -44,28 +42,28 @@ Also, **if you always remember that code is written to read (by humans)** and no
   
   - ***Design Patterns*** by the Gang of Four (one of the best books for program architecture)
 
-# Setting up environment ([details](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#setting-up-environment))
+# Setting up environment ([details]())
 
-- #### [Z Shell](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#z-shell)
-- #### [Editor](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#editor)
+- #### [Z Shell])
+- #### [Editor]()
 
-  - [VSCode](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#vscode)
+  - [VSCode](https://github.com/)
 
-  - [Basic Vim](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#basic-vim-for-git-rebase-and-in-terminal-editing) (for Git Rebase and in-terminal editing)
-- #### [Terminal and Commands](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#terminal-and-commands)
+  - [Basic Vim](https://github.com) (for Git Rebase and in-terminal editing)
+- #### [Terminal and Commands]
 
-- #### [Version Managers](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#version-managers)
+- #### [Version Managers]
 
   - Node Version Manager
 
-- #### [Package Managers](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#package-managers)
+- #### [Package Managers])
 
   - [yarn](https://yarnpkg.com/lang/en/)
 
   - [npm](https://docs.npmjs.com/getting-started/what-is-npm)(along with [npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b))
 
   - Homebrew (macOS)
-- #### [Environment Variables and uses](https://github.com/PestoTech/curriculum/tree/master/Setting%20up%20environment#environment-variables-and-uses)
+- #### [Environment Variables and uses]
 
 - # Version Control
   - ### [Centralized and Distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
@@ -329,22 +327,22 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
         - debugger statement
         
-      - #### Functions ([details](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#roles-of-functions))
+      - #### Functions ([details]())
 
-        - #### [Roles of functions](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#roles-of-functions)
+        - #### [Roles of functions]()
 
-        - #### [Defining Functions](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#defining-functions)
+        - #### [Defining Functions](
 
-            - [Function Expressions](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#function-expressions)
+            - [Function Expressions]()
 
-            - [Function Declarations](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#function-declarations)
+            - [Function Declarations]()
 
-            - [The Function Constructor](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#the-function-constructor)
+            - [The Function Constructor]()
 
-        - #### [Params vs Arguments](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#params-vs-arguments)
+        - #### [Params vs Arguments]()
         - #### [Hoisting](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch4.md)
 
-        - #### [More Control over Function Calls: call(), apply(), and bind()](https://github.com/PestoTech/curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#more-control-over-function-calls-call-apply-and-bind)
+        - #### [More Control over Function Calls: call(), apply(), and bind()](https://github.com//curriculum/tree/master/Functions%20in%20JavaScript%20(ES5)#more-control-over-function-calls-call-apply-and-bind)
 
         - #### [Arguments Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
 
